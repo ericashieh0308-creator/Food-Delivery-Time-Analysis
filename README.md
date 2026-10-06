@@ -6,6 +6,10 @@ This business analytics project examines the key factors influencing food delive
 
 The goal of the analysis is to identify operational and external factors associated with delivery delays and translate the findings into actionable recommendations for improving delivery efficiency.
 
+## Full Project Report
+
+📄 [View the Full Food Delivery Time Analysis Report](report/Food_Delivery_Time_Analysis_Report.pdf)
+
 ## Business Question
 
 Which factors—such as courier age, performance ratings, workload, traffic conditions, and weather—most significantly affect delivery time, and how can these insights be used to reduce delays?
